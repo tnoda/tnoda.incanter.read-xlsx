@@ -6,4 +6,5 @@
   :dependencies [[org.clojure/clojure "1.6.0"]
                  [incanter "1.5.6"]
                  [org.apache.poi/poi "3.11"]]
+  :signing {:gpg-key "takahiro.noda+github@gmail.com"}
   :profiles {:dev {:resource-paths ["dev-resources"]}})
