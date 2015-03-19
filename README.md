@@ -1,4 +1,4 @@
-# tnoda.incanter.xlsx
+# tnoda.incanter.read-xlsx
 
 [![Build Status](https://travis-ci.org/tnoda/tnoda.incanter.read-xlsx.svg)](https://travis-ci.org/tnoda/tnoda.incanter.read-xlsx) [![Circle CI](https://circleci.com/gh/tnoda/tnoda.incanter.read-xlsx/tree/master.svg?style=svg)](https://circleci.com/gh/tnoda/tnoda.incanter.read-xlsx/tree/master)
 
