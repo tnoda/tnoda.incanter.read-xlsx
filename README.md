@@ -1,5 +1,7 @@
 # tnoda.incanter.xlsx
 
+[![Build Status](https://travis-ci.org/tnoda/tnoda.incanter.read-xlsx.svg)](https://travis-ci.org/tnoda/tnoda.incanter.read-xlsx)
+
 [![Clojars Project](http://clojars.org/org.clojars.tnoda/incanter.read-xlsx/latest-version.svg)](http://clojars.org/org.clojars.tnoda/incanter.read-xlsx)
 
 This library provides a Incanter function to read Excel 2007 and Excel 97/2000/xp/2003 file formats.
