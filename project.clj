@@ -1,4 +1,4 @@
-(defproject org.clojars.tnoda/incanter.xlsx "0.0.3"
+(defproject org.clojars.tnoda/incanter.xlsx "0.0.4"
   :description "Provide a Incanter function to read Excel 2007 and Excel 97/2000/XP/2003 file formats"
   :url "https://github.com/tnoda/tnoda.incanter.xlsx"
   :license {:name "Eclipse Public License"
